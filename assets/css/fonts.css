@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'Literata';
+    src: url('/fonts/Literata/Literata-Light.woff2') format('woff2');
+    font-weight: light;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Literata';
+    src: url('/fonts/Literata/Literata-LightItalic.woff2') format('woff2');
+    font-weight: light;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Literata';
+    src: url('/fonts/Literata/Literata-SemiBold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Literata';
+    src: url('/fonts/Literata/Literata-SemiBoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Monaspace';
+    src: url('/fonts/Monaspace/MonaspaceArgon-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monaspace';
+    src: url('/fonts/Monaspace/MonaspaceArgon-SemiBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CMUSerif';
+    src: url('/fonts/CMUSerif/cmu-roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CMUSerif';
+    src: url('/fonts/CMUSerif/cmu-roman-bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('/fonts/Lora/lora-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('/fonts/Lora/lora-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+    
+@font-face {
+    font-family: 'Liberation';
+    src: url('/fonts/Liberation/lib-italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Liberation';
+    src: url('/fonts/Liberation/lib-bold-italic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Liberation';
+    src: url('/fonts/Liberation/lib-bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Liberation';
+    src: url('/fonts/Liberation/lib-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+}
