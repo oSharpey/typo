@@ -9,7 +9,7 @@
 .dark {
     --content-primary: rgb(218, 218, 218);
     --content-secondary: rgb(140, 140, 140);
-    --background: rgb(40, 40, 40);
+    --background: rgb(32, 32, 32);
     --code-background: rgb(50, 50, 50);
     --code-border: rgb(112, 102, 94);
 }
